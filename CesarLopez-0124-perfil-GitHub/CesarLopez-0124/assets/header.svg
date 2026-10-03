@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
-<title id="title">Hi, I'm César</title><desc id="desc">Code, learn, build. Computer Systems Engineering.</desc>
-<rect width="900" height="210" rx="20" fill="#0d1117"/>
-<rect x="1" y="1" width="898" height="208" rx="19" fill="none" stroke="#30363d" stroke-width="2"/>
-<circle cx="34" cy="28" r="5" fill="#ff7b72"/><circle cx="53" cy="28" r="5" fill="#e3b341"/><circle cx="72" cy="28" r="5" fill="#3fb950"/>
-<text x="450" y="93" text-anchor="middle" fill="#79c0ff" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">Hi, I'm César</text>
-<text x="450" y="135" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="22">Code. Learn. Build.</text>
-<text x="450" y="173" text-anchor="middle" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="16">Computer Systems Engineering</text>
-</svg>
