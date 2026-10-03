@@ -28,7 +28,7 @@ Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,linux,git,github,docker,vscode,visualstudio&perline=6&theme=dark" alt="Tecnologías y herramientas" /
 </p>
 
-<p align="center"><sub>HTML · CSS · JavaScript · Python · C# · SQL (MySQL / SQL Server)<br />Linux · Git · GitHub · VS Code · Visual Studio · Docker · GitKraken</sub></p>
+<p align="center"><sub>HTML · CSS · JavaScript · Python · C# · SQL (MySQL / SQL Server)<br />Linux · Git · GitHub · Docker · VS Code · Visual Studio </sub></p>
 
 ## GitHub stats
 
