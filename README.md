@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/dudu-hello.gif" alt="Dudu says hello" width="180" />
+  <img src="assets/dudu-work.gif" alt="Dudu says hello" width="180" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
 ---
 
 <p align="center">
-  <img src="assets/dudu-coding.gif" alt="Dudu taking a coding break" width="180" /><br />
+  <img src="assets/linux.gif" width="180" /><br />
   <b>Thanks for stopping by!</b><br />
   <sub>One commit at a time.</sub>
 </p>
