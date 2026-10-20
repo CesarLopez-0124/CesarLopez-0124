@@ -11,8 +11,6 @@
   Software development · Linux · Continuous learning
 </p>
 
----
-
 ## About me
 
 Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
