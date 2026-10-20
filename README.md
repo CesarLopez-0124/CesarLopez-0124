@@ -30,23 +30,6 @@ Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
 
 <p align="center"><sub>HTML · CSS · JavaScript · Python · C# · SQL (MySQL / SQL Server)<br />Linux · Git · GitHub · Docker · VS Code · Visual Studio </sub></p>
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarLopez-0124&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="César's GitHub statistics" width="440" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLopez-0124&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages in public repositories" width="340" />
-</p>
-
-## My contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CesarLopez-0124/CesarLopez-0124/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CesarLopez-0124/CesarLopez-0124/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/CesarLopez-0124/CesarLopez-0124/output/github-contribution-grid-snake.svg" width="900" />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
