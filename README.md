@@ -12,9 +12,15 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=CesarLopez-0124&theme=midnight" alt="César López Repo Galaxy" width="860"/>
+  <img
+    src="https://www.gitskins.com/api/section/galaxy?username=CesarLopez-0124&theme=midnight&v=2"
+    alt="César López Repo Galaxy"
+    width="860"
+  />
 </p>
+
 
 ---
 
