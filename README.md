@@ -16,7 +16,7 @@
 <p align="center">
   <img
     src="https://www.gitskins.com/api/section/galaxy?username=CesarLopez-0124&theme=midnight&v=2"
-    alt="César López Repo Galaxy"
+    alt="César López"
     width="860"
   />
 </p>
