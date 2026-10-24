@@ -1,80 +1,79 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=CesarLopez-0124&theme=midnight&style=aura" alt="GitSkins Repo Galaxy style hero" width="860" />
-</p>
 
-<h1 align="center">Hi, I'm César López</h1>
+<h1 align="center">César López</h1>
 
 <p align="center">
-  <b>Computer Systems Engineering student</b><br />
-  Software development · Linux · Cybersecurity · Continuous learning
+  <b>Computer Systems Engineering Student</b><br/>
+  Software Development · Linux · Cybersecurity
 </p>
 
 <p align="center">
-  I enjoy building applications, learning how systems work and improving my skills one project at a time.
+  Building, learning and exploring technology.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=CesarLopez-0124&theme=midnight" alt="César López Repo Galaxy" width="860"/>
 </p>
 
 ---
 
 ## About me
 
-Hi! I'm **César López**, a **Computer Systems Engineering student from Mexico**.
+Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
 
-- I enjoy building applications and learning how things work.
-- I work with **C#**, **Python**, **JavaScript** and **SQL**.
-- I'm currently learning **JavaScript** and **React**.
-- I'm interested in **software development**, **Linux** and **cybersecurity**.
-- I'm exploring **secure software development**, **computer networks** and backend technologies.
+- I enjoy building applications and understanding how systems work.
+- I work with C#, Python, JavaScript and SQL.
+- I'm currently learning React and improving my JavaScript skills.
+- I'm interested in cybersecurity, Linux and computer networks.
+- I'm exploring secure software development and backend technologies.
 
 ---
 
-## Languages & Tools
+## Brightest Stars
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,linux,git,github,docker,vscode,visualstudio&perline=6&theme=dark" alt="Technologies and tools" />
+  <img src="https://www.gitskins.com/api/section/projects?username=CesarLopez-0124&theme=midnight" alt="Featured Projects" width="860"/>
+</p>
+
+---
+
+## Elements
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=CesarLopez-0124&theme=midnight" alt="Language Stack" width="860"/>
+</p>
+
+---
+
+## Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cs,mysql,linux,git,github,docker,vscode,visualstudio&perline=7&theme=dark" alt="Technologies and Tools"/>
 </p>
 
 <p align="center">
   <sub>
-    HTML · CSS · JavaScript · Python · C# · SQL (MySQL / SQL Server)<br />
+    HTML · CSS · JavaScript · React · Python · C# · SQL<br/>
     Linux · Git · GitHub · Docker · VS Code · Visual Studio
   </sub>
 </p>
 
 ---
 
-## GitHub Stats
+## Transmission
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=CesarLopez-0124&theme=midnight&style=aura" alt="GitHub stats" width="860" />
+  <img src="https://www.gitskins.com/api/section/social?username=CesarLopez-0124&theme=midnight" alt="Social Links" width="860"/>
 </p>
 
----
-
-## Language Stack
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=CesarLopez-0124&theme=midnight&style=aura" alt="Language stack" width="860" />
-</p>
-
----
-
-## Featured Projects
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=CesarLopez-0124&theme=midnight&style=aura" alt="Featured projects" width="860" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=CesarLopez-0124&theme=midnight&style=jet" alt="Contribution activity" width="860" />
+  <a href="https://github.com/CesarLopez-0124">GitHub Profile</a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for stopping by!</b><br />
+  <b>Thanks for stopping by!</b><br/>
   <sub>One commit at a time.</sub>
 </p>
