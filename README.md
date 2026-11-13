@@ -12,18 +12,6 @@
 
 ---
 
-
-<p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/galaxy?username=CesarLopez-0124&theme=midnight&v=2"
-    alt="César López"
-    width="860"
-  />
-</p>
-
-
----
-
 ## About me
 
 Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
@@ -33,22 +21,6 @@ Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
 - I'm currently learning React and improving my JavaScript skills.
 - I'm interested in cybersecurity, Linux and computer networks.
 - I'm exploring secure software development and backend technologies.
-
----
-
-## Brightest Stars
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=CesarLopez-0124&theme=midnight" alt="Featured Projects" width="860"/>
-</p>
-
----
-
-## Elements
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=CesarLopez-0124&theme=midnight" alt="Language Stack" width="860"/>
-</p>
 
 ---
 
@@ -67,11 +39,6 @@ Hi! I'm **César López**, a Computer Systems Engineering student from Mexico.
 
 ---
 
-## Transmission
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=CesarLopez-0124&theme=midnight" alt="Social Links" width="860"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/CesarLopez-0124">GitHub Profile</a>
